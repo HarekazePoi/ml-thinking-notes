@@ -15,6 +15,7 @@ The goal of this repo is simple:
 
 - `concepts/`  
   Core machine learning ideas explained in my own words.
+  - [Confusion Matrix](concepts/confusion-matrix.md)
 
 - `recipes/`  
   Practical patterns I often reuse (data splitting, preprocessing, etc.).

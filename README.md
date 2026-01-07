@@ -16,6 +16,7 @@ The goal of this repo is simple:
 - `concepts/`  
   Core machine learning ideas explained in my own words.
   - [Confusion Matrix](concepts/confusion-matrix.md)
+  - [Bias vs Variance](concepts/bias-variance.md)
 
 - `recipes/`  
   Practical patterns I often reuse (data splitting, preprocessing, etc.).
@@ -26,4 +27,4 @@ The goal of this repo is simple:
 - `mistakes/`  
   Things I misunderstood before, especially common exam traps.
 
-  - [Bias vs Variance](concepts/bias-variance.md)
+

@@ -25,3 +25,5 @@ The goal of this repo is simple:
 
 - `mistakes/`  
   Things I misunderstood before, especially common exam traps.
+
+  - [Bias vs Variance](concepts/bias-variance.md)

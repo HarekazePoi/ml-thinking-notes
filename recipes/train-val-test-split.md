@@ -42,3 +42,8 @@ That gave me an overly optimistic result.
 
 Now I treat the test set as:
 > Something I look at only once.
+
+## When I prefer cross-validation
+
+For small datasets, I often prefer cross-validation
+because a single split can be too sensitive to randomness.
